@@ -12,3 +12,6 @@ facilement des informations sur les objets médicaux présents.
 
 Mots clés : Intelligence artificielle, Apprentissage profond, détection d’objets, interface
 graphique utilisateur, Instruments médicaux, Python, Rasberry Pi, Pi caméra
+
+## Résultats : 
+![image](https://github.com/user-attachments/assets/1727ced0-2cd2-44cd-ad6d-8e49f3978b94)
