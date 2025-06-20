@@ -15,3 +15,6 @@ graphique utilisateur, Instruments médicaux, Python, Rasberry Pi, Pi caméra
 
 ## Résultats : 
 ![image](https://github.com/user-attachments/assets/1727ced0-2cd2-44cd-ad6d-8e49f3978b94)
+
+![image](https://github.com/user-attachments/assets/229d8791-66f1-4046-87f6-8196a24ceba3)
+
